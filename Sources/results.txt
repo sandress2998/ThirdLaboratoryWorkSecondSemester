@@ -1,0 +1,105 @@
+quantityOfPeople = 26
+mostCommonMaleName = Aiden
+leastCommonMaleName = Jackson
+mostCommonFemaleName = Addison
+leastCommonFemaleName = Elizabeth
+mostCommonAge = from 11 to 15
+leastCommonAge = from 31 to 35
+mostCommonGender = female
+leastCommonGender = male
+mostCommonCountry = Mexico
+leastCommonCountry = Japan
+mostCommonMaritalStatus = Engaged
+leastCommonMaritalStatus = Married
+mostCommonQuantityOfChildren = 4
+leastCommonQuantityOfChildren = 1
+mostCommonJob = Unemployed
+leastCommonJob = Teacher
+mostCommonSalary = 0 - unemployed
+leastCommonSalary = from 1001 to 2000
+
+
+quantityOfPeople = 23
+mostCommonMaleName = Joseph
+leastCommonMaleName = Jackson
+mostCommonFemaleName = Elizabeth
+leastCommonFemaleName = Charlotte
+mostCommonAge = from 71 to 75
+leastCommonAge = from 1 to 5
+mostCommonGender = female
+leastCommonGender = male
+mostCommonCountry = England
+leastCommonCountry = Italy
+mostCommonMaritalStatus = Divorced
+leastCommonMaritalStatus = Married
+mostCommonQuantityOfChildren = 6
+leastCommonQuantityOfChildren = 1
+mostCommonJob = Baker
+leastCommonJob = Teacher
+mostCommonSalary = from 1001 to 2000
+leastCommonSalary = 0 - unemployed
+
+
+quantityOfPeople = 19
+mostCommonMaleName = Jayden
+leastCommonMaleName = Jackson
+mostCommonFemaleName = Britney
+leastCommonFemaleName = Elizabeth
+mostCommonAge = from 21 to 25
+leastCommonAge = from 1 to 5
+mostCommonGender = female
+leastCommonGender = male
+mostCommonCountry = USA
+leastCommonCountry = Germany
+mostCommonMaritalStatus = Married
+leastCommonMaritalStatus = Unmarried
+mostCommonQuantityOfChildren = 4
+leastCommonQuantityOfChildren = 3
+mostCommonJob = Doctor
+leastCommonJob = Teacher
+mostCommonSalary = from 2001 to 3000
+leastCommonSalary = 0 - unemployed
+
+
+quantityOfPeople = 19
+mostCommonMaleName = Andrew
+leastCommonMaleName = Joseph
+mostCommonFemaleName = Catherine
+leastCommonFemaleName = Elizabeth
+mostCommonAge = from 21 to 25
+leastCommonAge = from 1 to 5
+mostCommonGender = male
+leastCommonGender = female
+mostCommonCountry = China
+leastCommonCountry = France
+mostCommonMaritalStatus = Unmarried
+leastCommonMaritalStatus = Divorced
+mostCommonQuantityOfChildren = 4
+leastCommonQuantityOfChildren = 0
+mostCommonJob = Author
+leastCommonJob = Scientist
+mostCommonSalary = from 3001 to 4000
+leastCommonSalary = 0 - unemployed
+
+
+quantityOfPeople = 13
+mostCommonMaleName = Elijah
+leastCommonMaleName = Jackson
+mostCommonFemaleName = Olivia
+leastCommonFemaleName = Elizabeth
+mostCommonAge = from 21 to 25
+leastCommonAge = from 1 to 5
+mostCommonGender = female
+leastCommonGender = male
+mostCommonCountry = England
+leastCommonCountry = USA
+mostCommonMaritalStatus = Unmarried
+leastCommonMaritalStatus = Engaged
+mostCommonQuantityOfChildren = 0
+leastCommonQuantityOfChildren = 6
+mostCommonJob = Teacher
+leastCommonJob = Military
+mostCommonSalary = from 4001 to 5000
+leastCommonSalary = 0 - unemployed
+
+
