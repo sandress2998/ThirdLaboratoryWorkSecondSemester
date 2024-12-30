@@ -6,6 +6,7 @@
             "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
             "args": [
                 "-I${workspaceFolder}/Headers",
+                "-I${workspaceFolder}/PersonHeaders",
 
                 "-fdiagnostics-color=always",
                 "-g",
@@ -14,6 +15,7 @@
                 "D:\\VSCodeProjects\\ThirdLaboratoryWork\\Sources\\Person.cpp",
                 "D:\\VSCodeProjects\\ThirdLaboratoryWork\\Sources\\PersonHandler.cpp",
                 "D:\\VSCodeProjects\\ThirdLaboratoryWork\\Sources\\ParameterSelection.cpp",
+                "D:\\VSCodeProjects\\ThirdLaboratoryWork\\Sources\\PersonParser.cpp",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],

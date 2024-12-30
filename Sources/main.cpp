@@ -2,6 +2,8 @@
 #include "PersonHandler.h"
 #include "Dictionary.h"
 #include "ParameterSelection.h"
+#include "PersonParser.h"
+
 #include <string>
 #include <iostream>
 #include <cassert>
@@ -13,6 +15,11 @@ void printPersonStatisticsData(PersonStatisticsData* data);
 void writeTheResultToAFile(IDictionary<std::string, PersonStatisticsData*>* dictionary);
 
 int main() {
+    std::string str = "Olivia 74 w Russia Married 4 Salesman 3025";
+    Person p = parsePerson(str);
+    std::cout << p.getName() << " " << p.getAge() << " " << p.getGender() << " " << p.getCountry() << " "
+        << p.getMaritalStatus() << " " << p.getQuantityOfChildren() << " " << p.getJob() << " " << p.getSalary() << "\n";
+    /*
     MutableSegmentedDeque<Person>* persons = new MutableSegmentedDeque<Person>();
     for (int i = 0; i < 100; ++i) {
         persons->append(generatePerson());
@@ -21,10 +28,6 @@ int main() {
         << p.getMaritalStatus() << " " << p.getQuantityOfChildren() << " " << p.getJob() << " " << p.getSalary() << "\n";
     }
 
-
-    //assert(persons->getLength() == 50);
-
-    // ПЕРЕДЕЛАТЬ
     ParameterSelection parameterSelection(persons);
     IDictionary<std::string, PersonStatisticsData*>* dictionary = parameterSelection.sort("salary");
 
@@ -34,7 +37,7 @@ int main() {
         delete dictionary->getValue(keys->get(i));
     }
     delete keys;
-
+    */
 }
 
 void writeTheResultToAFile(IDictionary<std::string, PersonStatisticsData*>* dictionary) { 
